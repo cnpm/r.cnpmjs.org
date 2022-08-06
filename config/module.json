@@ -1,0 +1,20 @@
+[
+  {
+    "package": "cnpmcore/common"
+  },
+  {
+    "package": "cnpmcore/infra"
+  },
+  {
+    "package": "cnpmcore/core"
+  },
+  {
+    "package": "cnpmcore/port"
+  },
+  {
+    "package": "cnpmcore/repository"
+  },
+  {
+    "package": "cnpmcore/schedule"
+  }
+]
