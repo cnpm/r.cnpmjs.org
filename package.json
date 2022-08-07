@@ -47,11 +47,13 @@
     "@eggjs/tegg-orm-plugin": "^2.1.1",
     "@eggjs/tegg-plugin": "^1.3.3",
     "cnpmcore": "^1.10.0",
-    "egg": "^2.36.0"
+    "egg": "^2.36.0",
+    "oss-cnpm": "^3.0.2"
   },
   "devDependencies": {
-    "egg-ci": "^2.1.0",
+    "@eggjs/tsconfig": "^1.1.0",
     "egg-bin": "^4.16.4",
+    "egg-ci": "^2.1.0",
     "egg-mock": "^4.2.0",
     "eslint": "^7.32.0",
     "eslint-config-egg": "^9.0.0",

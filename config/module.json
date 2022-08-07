@@ -13,8 +13,5 @@
   },
   {
     "package": "cnpmcore/repository"
-  },
-  {
-    "package": "cnpmcore/schedule"
   }
 ]
